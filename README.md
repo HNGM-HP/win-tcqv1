@@ -99,7 +99,7 @@ python main.py
 ## 项目结构
 
 ```
-ticiqi/
+根目录/
 ├── main.py                 # 主程序入口
 ├── main_window.py          # 主显示窗口
 ├── control_panel.py        # 控制面板
